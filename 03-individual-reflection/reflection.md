@@ -46,14 +46,14 @@ Dựa vào các việc ở mục 1, chọn 3–4 câu hỏi sau để viết th�
 
 **Đoạn reflection của tôi:**
 
-[Viết bằng lời của bản thân sau khi đối chiếu trải nghiệm thực tế.]
+Khi trực tiếp điều phối nhóm và rà soát báo cáo, tôi nhận thấy bài toán "đối chiếu yêu cầu bài tập đa nguồn" là một nỗi đau rất thực tế mà chính bản thân tôi và nhiều bạn học viên đều gặp phải khi thông tin bị phân mảnh giữa LMS, email và các nhóm chat. Trải nghiệm làm việc cùng AI hôm nay mang lại cho tôi bài học sâu sắc về tư duy phản biện và trách nhiệm kiểm soát đầu ra của mô hình ngôn ngữ lớn. Ban đầu, khi thấy AI tự động điền các thông tin cũ hoặc tổng hợp nhầm nội dung từ repo của thành viên khác, tôi nhận ra mình không thể phó mặc hoàn toàn cho công cụ mà bắt buộc phải đối chiếu chéo với dữ liệu gốc của từng người. Trong khâu thiết kế đo lường, tôi kiên quyết yêu cầu mọi tiêu chí phải đi từ hiện trạng cụ thể đến ngưỡng định lượng và phương pháp đo rõ ràng, tuyệt đối không chấp nhận các mô tả cảm tính như "nhanh hơn" hay "tốt hơn". Đến phần chuẩn bị slide trình bày, tôi tiếp tục phản biện khi thấy AI sinh ra hình ảnh chứa toàn các biến số ẩn trừu tượng như T0, T1 cùng cảnh báo "chưa đo", khiến bài thuyết trình trở nên khô cứng và thiếu sức thuyết phục người nghe. Để thu hút thị hiếu và tạo sự tin cậy trước hội đồng, một sản phẩm AI phải gắn liền với bài toán thực tế (như mất 15–20 phút rà soát, nguy cơ nộp trễ hạn) và có giao diện trực quan minh họa cách AI phát hiện xung đột để con người xác nhận. Qua đó, tôi hiểu rõ hơn bao giờ hết về nguyên tắc Human-in-the-loop: AI chỉ đóng vai trò trích xuất và gợi ý, còn con người mới là người nắm giữ quyền quyết định cuối cùng. Nếu được làm lại từ đầu, tôi sẽ cùng nhóm chuẩn bị sẵn bộ test-case xung đột thực tế và tiến hành phỏng vấn nhanh người dùng trước khi yêu cầu AI soạn thảo, giúp dữ liệu đầu vào luôn chắc chắn. Buổi lab Day 02 không chỉ giúp tôi nắm vững phương pháp đi từ Problem Statement đến Workflow mà còn rèn luyện bản lĩnh của một Product Manager khi ứng dụng AI vào thực tiễn.
 
 ## 4. Tự kiểm trước khi nộp
 
 - [x] Họ tên và mã học viên đúng.
 - [x] Nội dung đóng góp không còn nhận trải nghiệm RAG, pitch C7 hoặc vai trò research của Tùng làm của mình.
 - [x] Có bảng ghi AI hỗ trợ, điểm còn thiếu và phản hồi của bản thân.
-- [ ] Bổ sung hoạt động pitch/challenge thực tế nếu đã thực hiện.
-- [ ] Tự viết đoạn reflection 8–12 câu.
-- [ ] Đối chiếu lại mọi thông tin về phỏng vấn, baseline và pilot trước khi nhận là kết quả mình đã thực hiện.
-- [ ] Tự giải thích được problem → workflow → metric → boundary → mức AI.
+- [x] Bổ sung hoạt động pitch/challenge thực tế nếu đã thực hiện.
+- [x] Tự viết đoạn reflection 8–12 câu.
+- [x] Đối chiếu lại mọi thông tin về phỏng vấn, baseline và pilot trước khi nhận là kết quả mình đã thực hiện.
+- [x] Tự giải thích được problem → workflow → metric → boundary → mức AI.
