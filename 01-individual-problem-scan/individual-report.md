@@ -1,6 +1,6 @@
 # 01 — Individual Problem Scan
 
-> Bản nháp dựa trên các tình huống làm lab đã ghi nhận. Card #1 được thu hẹp từ khó hiểu yêu cầu sang giả thuyết khó xác định yêu cầu hiện hành khi có nhiều nguồn/cập nhật; giả thuyết này chưa được kiểm chứng. Các mốc “cần đo” và mục tiêu thử nghiệm không phải kết quả thực tế.
+**Trạng thái:** Card #1 là giả thuyết đang kiểm chứng; số đo còn thiếu được ghi trong từng metric.
 
 ## Thông tin cá nhân
 
@@ -309,7 +309,7 @@ Khi nguồn mâu thuẫn, ai xác nhận; làm sao phân biệt thiếu thông t
 **AI phản biện Card:**
 
 - Điểm yếu AI chỉ ra: câu hỏi về phần code không chứng minh xung đột phiên bản; chưa có baseline; nguồn mới hơn chưa chắc đúng hơn; checklist chuẩn có thể đủ.
-- Cập nhật trong bản nháp có AI hỗ trợ: thu hẹp actor và bottleneck, phân biệt bằng chứng với giả thuyết, tính công nhập/review, giữ nguồn và người xác nhận. Người học cần rà soát trước khi dùng để pitch.
+- Cập nhật trong bản nháp có AI hỗ trợ: thu hẹp actor và bottleneck, phân biệt bằng chứng với giả thuyết, tính công nhập/review, giữ nguồn và người xác nhận.
 
 ### Self-check nộp phần 01
 
